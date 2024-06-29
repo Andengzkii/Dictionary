@@ -1,0 +1,15 @@
+# Target labels
+ nuget-populate
+# Source files and their labels
+C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate
+C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b12bdbf4fd46717c89f4e81d8143e463/nuget-populate.rule
+C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/4aae87b17f98578018f6f759ba9c4c17/nuget-populate-complete.rule
+C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-build.rule
+C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-configure.rule
+C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-copyfile.rule
+C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-download.rule
+C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-install.rule
+C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-mkdir.rule
+C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-patch.rule
+C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-test.rule
+C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-update.rule

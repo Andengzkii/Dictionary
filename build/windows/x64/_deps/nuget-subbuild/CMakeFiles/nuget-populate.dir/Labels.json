@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/nuget-populate"
+		},
+		{
+			"file" : "C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/b12bdbf4fd46717c89f4e81d8143e463/nuget-populate.rule"
+		},
+		{
+			"file" : "C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/4aae87b17f98578018f6f759ba9c4c17/nuget-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-copyfile.rule"
+		},
+		{
+			"file" : "C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/MGD-DEV/Desktop/Flutter/Thesaurus/build/windows/x64/_deps/nuget-subbuild/CMakeFiles/e273dc0550157910aaeab900b8f9c850/nuget-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nuget-populate"
+		],
+		"name" : "nuget-populate"
+	}
+}
